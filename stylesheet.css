@@ -1,0 +1,35 @@
+header{
+  height: 120px;
+  width: 100%;
+  border-radius: 25px;
+}
+nav{
+  height: 2000px;
+  width: 100%;
+  border-radius: 25px;
+}
+main{
+  height: 2000px;
+  width: 100%;
+  border-radius: 25px;
+}
+footer{
+  height: 100px;
+  width: 100%;
+  border-radius: 25px;
+}
+article{
+  height: 600px;
+  width: 100%;
+  border-radius: 25px;
+}
+#h{
+  height: 95px;
+}
+#f{
+  height: 65px;
+}
+
+#a{
+  height: 125px;
+}
